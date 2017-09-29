@@ -27,3 +27,21 @@ Open Israeli Municipal Budgets 🏘
 - Given a budget can we understand how it is invested geographically/demographically? Moreover, can we derive how a given municipality invests the money it got from taxes/arnona in proportion to the amount payed by each region in the city?
 - Generalize the above two ideas into a tool that is able to take complex queries and produce meaningful results (not necesarily visualized).
 
+
+Pokéapi - The Pokémon RESTful API ✊
+====================================
+
+**Description:** Pokémon started out as a Japanese card game and became a worldwide phenomenom. The link is to a public API providing access to all the information about all Pokémons, throughout all existing (seven) generations + including berries! 
+
+**Link:** http://pokeapi.co
+
+**Project ideas:** 
+
+- A bot that you could compete against.
+- A bot that could help you train your Pokémons.
+
+**Additional resources:** 
+
+ - `Pokédex Python module <https://github.com/veekun/pokedex>`_ - The name says it all.
+ - `The Pokédex <https://pokemondb.net/pokedex>`_ - A website holding all information about Pokémon, they have no public API (as far as we could tell), but you can scrape it for info.
+
