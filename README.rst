@@ -14,8 +14,8 @@ Brought to you by `DataHack <http://datahack-il.com/>`_, a data-driven hackathon
 |
 
 
-Open Israeli Municipal Budgets
-==============================
+Open Israeli Municipal Budgets 🏘
+=================================
 
 **Description:** Open local budget is a project under The Public Knowledge Workshop aimed at making local authorities budgets accessible to the public. While the project is at beta, many budgets are already online (some in a more accessible format than others) browsable, though a single budget at a time, in the `project's home page <http://www.omuni.org/>`_. Being in beta means that there is plenty of room for improvement - this is where you can come in! 
 
