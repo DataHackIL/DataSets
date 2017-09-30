@@ -109,3 +109,24 @@ Stack Exchange 🔷
 - How many questions are unique? We believe that most questions have been answered before (in some form or another) so why not develop an automated answering system?
 - Could we teach a machine to code based on answers from Stack-Overflow?
 - Is there similarity between different sites relating to similar topics? For instance, do questions asked around Latin-based languages have a similar answer?
+
+
+The GDELT Project 🗞
+====================
+
+**Description:** `The GDELT Project <http://www.gdeltproject.org>`_ monitors the world's broadcast, print, and web news from around the world and identifies people, locations, organizations, emotions and more. This dataset has been used to analyze international relations, monitor the war on Ebola, create influence networks of powerful individuals and examining the implications of the Arab Spring. 
+
+**Data format:** CSV files containing columns for: date, actors, tone, location, source and more.
+
+**Links:** 
+
+- http://data.gdeltproject.org/events/index.html
+- http://data.gdeltproject.org/gkg/index.html
+- Using Google BigQuery: http://googlecloudplatform.blogspot.co.il/2014/05/worlds-largest-event-dataset-now-publicly-available-in-google-bigquery.html
+
+
+**Project ideas:** 
+
+- Coverage and tone towards Israel around the world.
+- Predict the next protest, disease outbreak or election’s winner.
+- Show relations between business people, media personalities and government officials.
