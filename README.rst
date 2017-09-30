@@ -144,3 +144,22 @@ The GDELT Project 🗞
 - Coverage and tone towards Israel around the world.
 - Predict the next protest, disease outbreak or election’s winner.
 - Show relations between business people, media personalities and government officials.
+
+
+Enron emails 📨
+===============
+
+**Description:** Enron was a U.S. energy-trading and utilities company that housed one of the biggest accounting frauds in history. Enron's executives employed accounting practices that falsely inflated the company's revenues, which, at the height of the scandal, made the firm become the seventh largest corporation in the United States. Once the fraud came to light, the company quickly unraveled and filed for Chapter 11 bankruptcy on Dec. 2, 2001. The dataset contains ~200,000 email messages from ~150 users, mostly senior management of Enron.
+
+**Data format:** The zip file contains a folder for each employee. Each of these folders is divided into ‘inbox’, ‘sent’, ‘all documents’ and more. The subfolders contain text files with the raw email data.
+
+**Links:** 
+
+- *Overview:* http://www.cs.cmu.edu/~enron/ 
+- *Download:* http://www.cs.cmu.edu/~enron/enron_mail_20150507.tgz
+
+**Project ideas:** 
+
+- Find words and phrases that shorten the response time to an email.
+- Determine the importance and urgency of a given email.
+- Extract a list of tasks from a given email.    
