@@ -58,3 +58,18 @@ Reddit comments 💬
 - What makes a reddit comment popular (i.e. get a high score)? Find correlation to time posted and content: Do late comments still have a chance to be popular? Do short comments fair better than long ones? Are there any specific words or terms that boost a post's score?
 - Automatically generate an average, or a popular, reddit comment given a reddit link and the comments already posted on its thread.
 - Find correlation between real world events and reddit comments: What events do the reddit community respond to more? What types of events elicit a quick but short response and what types bring about a long response continuing for days or weeks?
+
+
+Stack Exchange 🔷
+==================
+
+**Description:** Starting in Stack-Overflow, the Stack-Exchange network is a collection of Q&A websites, each dealing with a different topic - from porgramming to home improvement. These vast knowledge bases, some containing over a few millions of answers, are available to download in XML format. 
+
+**Link:** https://archive.org/details/stackexchange 
+
+
+**Project ideas:** 
+
+- How many questions are unique? We believe that most questions have been answered before (in some form or another) so why not develop an automated answering system?
+- Could we teach a machine to code based on answers from Stack-Overflow?
+- Is there similarity between different sites relating to similar topics? For instance, do questions asked around Latin-based languages have a similar answer?
