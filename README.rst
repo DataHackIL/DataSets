@@ -1,11 +1,11 @@
 DataSets by `DataHack <http://datahack-il.com/>`_
 #################################################
 
-A curated list of cool open datasets to use in machine learning driven projects.
+A curated list of cool open datasets and APIs to use in machine learning driven projects.
 
 Brought to you by `DataHack <http://datahack-il.com/>`_, a data-driven hackathon. You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Meeutp <https://www.meetup.com/DataHack>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <http://us12.campaign-archive2.com/home/?u=de6927f58980fe1c8f3b78cf7&id=d70a19b217>`_. 
 
-The list starts with unique Israeli open public datasets, from governmental organizations and other public instituitions, collected and maintained by `The Public Knowledge Workshop <http://www.hasadna.org.il/en/>`_ - one of `DataHack <http://datahack-il.com/>`_'s major partners. We then continue the list with open datasets from a variety of sources.
+The list starts with unique Israeli open public datasets, from governmental organizations and other public instituitions, collected and maintained by `The Public Knowledge Workshop <http://www.hasadna.org.il/en/>`_ - one of `DataHack <http://datahack-il.com/>`_'s major partners. We then continue the list with open datasets and APIs from a variety of sources.
 
 This list is open, and contributions are both welcomed and encouraged. To contribute to the list, simply edit this ``README.rst`` file to add an entry in the existing format and create a pull request. To keep in line with the designation of this list as an inspiration for machine learning driven projects (in hackathons and in general), please make sure to include a short description of the dataset, a link where the data is available and a few project suggestions. Additions to existing entries are also welcomed.
 
