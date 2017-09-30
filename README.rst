@@ -65,6 +65,20 @@ PRO-ACT: Pooled Resource Open-Access ALS Clinical Trials Database 🔬
 - *Identify meaningful subgroups:* `The ALS Stratification Challenge <https://www.synapse.org/#!Synapse:syn2873386/wiki/>`_ utilizes the PRO-ACT database, as well as data from the Irish National ALS register and The Piemonte and Valle d'Aosta Register for ALS. It asks solvers to identify meaningful sub-groups of ALS patients. Challenge information and solutions are available on the `Challenge website <https://www.synapse.org/#!Synapse:syn2873386/wiki/>`_ on Sage Bionetwork's Synapse Platform.
 
 
+
+The Beit Hatfutsot's family tree database 🌳
+============================================
+
+**Description:** The Beit Hatfutsot's `family tree database <https://dbs.bh.org.il>`_ contains over 10,000 family trees encompassing over five million people. The database contains names, professions, births, family ties and numerous other details. The database can be queries through an `API server <https://api.dbs.bh.org.il/v1/docs>`_. 
+
+**Link:** https://api.dbs.bh.org.il/v1/docs
+
+**Project ideas:** 
+
+- Build an automatic tools guessing a person origin based on his family name.
+- Visualize the movement of Jewish communities and people through regions and countries over the ages.
+
+
 Pokéapi - The Pokémon RESTful API ✊
 ====================================
 
