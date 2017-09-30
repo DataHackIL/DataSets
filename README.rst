@@ -49,12 +49,12 @@ Pokéapi - The Pokémon RESTful API ✊
 Reddit comments 💬
 ==================
 
-**Description:** A constantly updated dataset of *every* comment posted on reddit since the site's inception in 2005, totallin at more than 1.7 *billion* comments. You can read about the origin of the dataset `here <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_, and about the way it is stored in Google BigQuery `here <https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/>`_.
+**Description:** A constantly updated dataset of *every* comment posted on reddit since the site's inception in 2005, totalling at more than 1.7 *billion* comments. You can read about the origin of the dataset `here <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_, and about the way it is stored in Google BigQuery `here <https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/>`_.
 
 **Link:** https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments
 
 **Project ideas:** 
 
 - What makes a reddit comment popular (i.e. get a high score)? Find correlation to time posted and content: Do late comments still have a chance to be popular? Do short comments fair better than long ones? Are there any specific words or terms that boost a post's score?
-- Generate an average, or a popular, reddit comment given a reddit link and the comments already posted on its thread.
-- Find correlation between real world events and reddit comments: What events do the reddit community respond to more? What types of events elicit a quick bu short response and what types bring about a long response continuing for days or weeks?
+- Automatically generate an average, or a popular, reddit comment given a reddit link and the comments already posted on its thread.
+- Find correlation between real world events and reddit comments: What events do the reddit community respond to more? What types of events elicit a quick but short response and what types bring about a long response continuing for days or weeks?
