@@ -32,6 +32,20 @@ Open Israeli Municipal Budgets 🏘
 - Generalize the above two ideas into a tool that is able to take complex queries and produce meaningful results (not necesarily visualized).
 
 
+Israeli Knesset members' Facebook posts and comments 🏛
+=======================================================
+
+**Description:** We provide a unique dataset of facebook comments to statuses published by Israeli MKs during 2015-2016. In total there are about 5 million such comments, out of which 1,600 are labeled according to the sentiment of the comment's text. A great challenge is to use the 1,600 labeled comments, in order to find the sentiment of all the comments. In the linked folder you'll find the labeled data, some information about the labels, and the unlabeled data. This dataset was collected by the team of `Kikar Hamedina <https://kikar.org/>`_, and they will be more than happy to help. 
+
+**Link:** https://drive.google.com/drive/folders/0Bz-MJkSVg93LaXRFRkdJckYtV0E
+
+**Project ideas:** 
+
+- What type of posts and subjects elicit the most responses?
+- How to different Knesset Members differ in the way they communicate with their audience? Think of ways to visualize the difference in frequency, content, amount of feedback and other interesting parameters.
+- Are Knesset Members' posts a place of discussion and communication with our representatives? Do they respond to questions? Do later posts refer to their followers' reactions, questions and concerns?
+
+
 Pokéapi - The Pokémon RESTful API ✊
 ====================================
 
@@ -76,17 +90,3 @@ Stack Exchange 🔷
 - How many questions are unique? We believe that most questions have been answered before (in some form or another) so why not develop an automated answering system?
 - Could we teach a machine to code based on answers from Stack-Overflow?
 - Is there similarity between different sites relating to similar topics? For instance, do questions asked around Latin-based languages have a similar answer?
-
-
-Israeli Knesset members' Facebook posts and comments 🏛
-=======================================================
-
-**Description:** We provide a unique dataset of facebook comments to statuses published by Israeli MKs during 2015-2016. In total there are about 5 million such comments, out of which 1,600 are labeled according to the sentiment of the comment's text. A great challenge is to use the 1,600 labeled comments, in order to find the sentiment of all the comments. In the linked folder you'll find the labeled data, some information about the labels, and the unlabeled data. This dataset was collected by the team of `Kikar Hamedina <https://kikar.org/>`_, and they will be more than happy to help. 
-
-**Link:** https://drive.google.com/drive/folders/0Bz-MJkSVg93LaXRFRkdJckYtV0E
-
-**Project ideas:** 
-
-- What type of posts and subjects elicit the most responses?
-- How to different Knesset Members differ in the way they communicate with their audience? Think of ways to visualize the difference in frequency, content, amount of feedback and other interesting parameters.
-- Are Knesset Members' posts a place of discussion and communication with our representatives? Do they respond to questions? Do later posts refer to their followers' reactions, questions and concerns?
