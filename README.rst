@@ -46,6 +46,25 @@ Israeli Knesset members' Facebook posts and comments 🏛
 - Are Knesset Members' posts a place of discussion and communication with our representatives? Do they respond to questions? Do later posts refer to their followers' reactions, questions and concerns?
 
 
+PRO-ACT: Pooled Resource Open-Access ALS Clinical Trials Database 🔬
+====================================================================
+
+**Description:** Amyotrophic lateral sclerosis (ALS) is a specific disease that causes the death of neurons which control voluntary muscles. The cause is not known in 90% to 95% of cases. No cure for ALS is known. The `PRO-ACT initiative <https://nctu.partners.org/ProAct/>`_ provides users with easy access to
+
+- Over 10,700 fully de-identified clinical ALS patient records.
+- Placebo and treatment-arm data from 23 Phase II/III clinical trials.
+- Demographic, lab, medical and family history, and other data elements.
+- More than 10 million longitudinally collected data points.
+
+**Link:** https://nctu.partners.org/ProAct/Data/Index
+
+**Project ideas:** 
+
+- *Cause:* The cause of ALS is not known in 90% to 95% of cases, and besides a genetic cause in a small percentage of the cases various environmental factors are suspected. This dataset can be used to investigate the statistical significance of various suggested causes and suggest possible new ones.
+- *Diagnosis:* Dignosis of ALS is challenging, and is based on a person's signs and symptoms with testing done to rule out other potential causes. Using the dataset to suggest statistical significance of the connnection of different symptoms and suggesting possible new ones can be extremely valuable to improve diagnosis of ALS.
+- *Identify meaningful subgroups:* `The ALS Stratification Challenge <https://www.synapse.org/#!Synapse:syn2873386/wiki/>`_ utilizes the PRO-ACT database, as well as data from the Irish National ALS register and The Piemonte and Valle d'Aosta Register for ALS. It asks solvers to identify meaningful sub-groups of ALS patients. Challenge information and solutions are available on the `Challenge website <https://www.synapse.org/#!Synapse:syn2873386/wiki/>`_ on Sage Bionetwork's Synapse Platform.
+
+
 Pokéapi - The Pokémon RESTful API ✊
 ====================================
 
