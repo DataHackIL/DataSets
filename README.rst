@@ -69,14 +69,14 @@ PRO-ACT: Pooled Resource Open-Access ALS Clinical Trials Database 🔬
 The Beit Hatfutsot's family tree database 🌳
 ============================================
 
-**Description:** The Beit Hatfutsot's `family tree database <https://dbs.bh.org.il>`_ contains over 10,000 family trees encompassing over five million people. The database contains names, professions, births, family ties and numerous other details. The database can be queries through an `API server <https://api.dbs.bh.org.il/v1/docs>`_. 
+**Description:** The Beit Hatfutsot's `family tree database <https://dbs.bh.org.il>`_ contains over 10,000 family trees encompassing over five million people. The database contains names, professions, births, family ties and numerous other details. The database can be queried through an `API server <https://api.dbs.bh.org.il/v1/docs>`_. 
 
 **Link:** https://api.dbs.bh.org.il/v1/docs
 
 **Project ideas:** 
 
-- Build an automatic tools guessing a person origin based on his family name.
-- Visualize the movement of Jewish communities and people through regions and countries over the ages.
+- Build an automatic tool guessing a person origin based on his family name.
+- Visualize the movements of Jewish communities and people through regions and countries over the ages.
 
 
 Pokéapi - The Pokémon RESTful API ✊
