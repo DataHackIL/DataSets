@@ -162,4 +162,21 @@ Enron emails 📨
 
 - Find words and phrases that shorten the response time to an email.
 - Determine the importance and urgency of a given email.
-- Extract a list of tasks from a given email.    
+- Extract a list of tasks from a given email.
+
+
+U.S. Prisoners ⛓️
+=================
+
+**Description:** The National Corrections Reporting Program (NCRP) compiles offender-level data on admissions and releases from state and federal prisons and post-confinement community supervision. The data are used to monitor the nation's correctional population and address specific policy questions related to recidivism, prisoner reentry, and trends in demographic characteristics of the incarcerated and community supervision populations.
+
+**Links:** 
+
+- *Data:* http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36404
+- *A related NYT article:* https://www.nytimes.com/2016/09/02/upshot/new-geography-of-prisons.html
+
+**Project ideas:** 
+
+- Create a good model for predicting trends in the characteristics of the incarcerated and community supervision populations.
+- Predict how likey is a person to be incarcerated during his life time by his Facebook/LinkedIn profile.
+- Find likely causes to prisoner reentry and possible ways to improve prisoner rehabilitation.
