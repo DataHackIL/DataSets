@@ -197,3 +197,18 @@ GitHub Repositories 🐱
 - How likely it is for a programmer who wrote in X to write in Y?
 - Is there a correlation between active users in GitHub to active users in other networks such as StackOverflow?
 - Find impactful commits (those that caused, for example, a surge of forking)
+
+
+The New York Times Articles 📰
+==============================
+
+**Description:** The New York Times is one of the most wide read newspapers around the world. It has articles about world and local news, opinions, and various other topics. Using these APIs you can access any article since 1851, books, comments and many more. Bare in mind that the access is with a key which is restricted. In the articles API, for examples, you are restricted to 10 calls per second, and 10,000 per day. The restrictions are specified `here <http://developer.nytimes.com/apps/register>`_.
+
+**Data format:** The access to the data is by a web based API - you send a GET request and get back a json with the data. Here are some `examples <http://developer.nytimes.com/docs/read/article_search_api_v2#examples>`_ (there are examples for all of the available APIs). There is also a GUI `API console <http://developer.nytimes.com/io-docs>`_.
+
+**Overciew:** http://developer.nytimes.com/docs
+
+**Project ideas:** 
+
+- Identify the topics a reporter usually writes on, and predict the writer of an article by it's content, or even who will cover some specific event.
+- Compare coverage with factual data: do similar events get the same coverage?
