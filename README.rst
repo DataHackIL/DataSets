@@ -109,6 +109,7 @@ Reddit comments 💬
 - What makes a reddit comment popular (i.e. get a high score)? Find correlation to time posted and content: Do late comments still have a chance to be popular? Do short comments fair better than long ones? Are there any specific words or terms that boost a post's score?
 - Automatically generate an average, or a popular, reddit comment given a reddit link and the comments already posted on its thread.
 - Find correlation between real world events and reddit comments: What events do the reddit community respond to more? What types of events elicit a quick but short response and what types bring about a long response continuing for days or weeks?
+-  Find communities and sub-communities, discover leaders or trend-setter within them and visualize how they are formed.
 
 
 Stack Exchange 🔷
@@ -180,3 +181,19 @@ U.S. Prisoners ⛓️
 - Create a good model for predicting trends in the characteristics of the incarcerated and community supervision populations.
 - Predict how likey is a person to be incarcerated during his life time by his Facebook/LinkedIn profile.
 - Find likely causes to prisoner reentry and possible ways to improve prisoner rehabilitation.
+
+
+GitHub Repositories 🐱
+======================
+
+**Description:**  Github is an online git repository hosting service, holding projects such as Node.JS, Microsoft VisualStudio and Google’s TensorFlow. GitHub is the largest code repository in the world with over 11M users and 29M repositories.
+
+**Data format:** GoogleBigQuery, containing all data + language specific data.
+
+**Data:** https://github.com/blog/1112-data-at-github
+
+**Project ideas:** 
+
+- How likely it is for a programmer who wrote in X to write in Y?
+- Is there a correlation between active users in GitHub to active users in other networks such as StackOverflow?
+- Find impactful commits (those that caused, for example, a surge of forking)
