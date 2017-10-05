@@ -206,7 +206,7 @@ The New York Times Articles 📰
 
 **Data format:** The access to the data is by a web based API - you send a GET request and get back a json with the data. Here are some `examples <http://developer.nytimes.com/docs/read/article_search_api_v2#examples>`_ (there are examples for all of the available APIs). There is also a GUI `API console <http://developer.nytimes.com/io-docs>`_.
 
-**Overciew:** http://developer.nytimes.com/docs
+**Overview:** http://developer.nytimes.com/docs
 
 **Project ideas:** 
 
