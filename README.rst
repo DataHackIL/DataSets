@@ -3,7 +3,7 @@ DataSets by `DataHack <http://datahack-il.com/>`_
 
 A curated list of cool open datasets and APIs to use in machine learning driven projects.
 
-Brought to you by `DataHack <http://datahack-il.com/>`_, a data-driven hackathon. You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Meeutp <https://www.meetup.com/DataHack>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <http://us12.campaign-archive2.com/home/?u=de6927f58980fe1c8f3b78cf7&id=d70a19b217>`_. 
+Brought to you by `DataHack <http://datahack-il.com/>`_, a data-driven hackathon. You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Meeutp <https://www.meetup.com/DataHack>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <https://mailchi.mp/2c67d69eb667/datahack-newsletter>`_. 
 
 The list starts with unique Israeli open public datasets, from governmental organizations and other public instituitions, collected and maintained by `The Public Knowledge Workshop <http://www.hasadna.org.il/en/>`_ - one of `DataHack <http://datahack-il.com/>`_'s major partners. We then continue the list with open datasets and APIs from a variety of sources.
 
