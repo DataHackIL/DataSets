@@ -9,6 +9,10 @@ The list starts with unique Israeli open public datasets, from governmental orga
 
 This list is open, and contributions are both welcomed and encouraged. To contribute to the list, simply edit this ``README.rst`` file to add an entry in the existing format and create a pull request. To keep in line with the designation of this list as an inspiration for machine learning driven projects (in hackathons and in general), please make sure to include a short description of the dataset, a link where the data is available and a few project suggestions. Additions to existing entries are also welcomed.
 
+Other possible sources:
+- Apertio: `https://apert.io/ <https://apert.io/>`_
+- Google Dataset Search: `https://toolbox.google.com/datasetsearch <https://toolbox.google.com/datasetsearch>`_
+
 |
 
 .. contents:: **Open datasets:**
